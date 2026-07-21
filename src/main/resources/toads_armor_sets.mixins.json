@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.spottedtoad.toads_armor_sets.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AxolotlEntityMixin",
+    "AxolotlEntityRendererMixin"
+  ],
+  "client": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

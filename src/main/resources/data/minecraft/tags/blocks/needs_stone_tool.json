@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "toads_armor_sets:stromatolite",
+    "toads_armor_sets:polished_stromatolite",
+    "toads_armor_sets:stromatolite_bricks",
+    "toads_armor_sets:cracked_stromatolite_bricks",
+    "toads_armor_sets:chiseled_stromatolite",
+    "toads_armor_sets:gilded_chiseled_stromatolite",
+
+    "toads_armor_sets:scorched_stromatolite",
+    "toads_armor_sets:polished_scorched_stromatolite",
+    "toads_armor_sets:scorched_stromatolite_bricks",
+    "toads_armor_sets:cracked_scorched_stromatolite_bricks",
+    "toads_armor_sets:chiseled_scorched_stromatolite",
+    "toads_armor_sets:gilded_chiseled_scorched_stromatolite",
+
+    "toads_armor_sets:vulcanized_stromatolite",
+    "toads_armor_sets:molten_stromatolite",
+    "toads_armor_sets:chilled_stromatolite",
+    "toads_armor_sets:frozen_stromatolite"
+  ]
+}

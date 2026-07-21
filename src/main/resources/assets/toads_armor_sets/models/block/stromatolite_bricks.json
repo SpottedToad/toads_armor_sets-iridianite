@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "toads_armor_sets:block/stromatolite_bricks"
+  }
+}

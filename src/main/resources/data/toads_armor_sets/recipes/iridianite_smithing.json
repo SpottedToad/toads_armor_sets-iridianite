@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "toads_armor_sets:iridian_crystal"
+  },
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "toads_armor_sets:iridianite_ingot"
+  }
+}

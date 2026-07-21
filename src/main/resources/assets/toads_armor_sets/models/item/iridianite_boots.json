@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "toads_armor_sets:item/iridianite_boots"
+  }
+}

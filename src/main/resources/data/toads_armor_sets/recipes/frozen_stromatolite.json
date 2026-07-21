@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#/#",
+    " # "
+    ],
+  "key": {
+    "#": {
+      "item": "toads_armor_sets:chilled_stromatolite"
+      },
+    "/": {
+      "item": "minecraft:snow_block"
+      }
+    },
+  "result": {
+    "count": 4,
+    "item": "toads_armor_sets:frozen_stromatolite"
+    }
+}

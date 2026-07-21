@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "tas-iridianite",
+  "version": "${version}",
+
+  "name": "tas-iridianite",
+  "description": "This mod adds the Iridianite armor set from outer space.",
+  "authors": [
+    "SpottedToad"
+  ],
+  "contact": {
+    "homepage": "https://github.com/SpottedToad/2a2c1n_Origins_Additions",
+    "sources": "https://github.com/SpottedToad/2a2c1n_Origins_Additions"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/toads_armor_sets/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.spottedtoad.toads_armor_sets.TASMod"
+    ],
+    "client": [
+      "net.spottedtoad.toads_armor_sets.TASModClient"
+    ],
+    "fabric-datagen": [
+      "net.spottedtoad.toads_armor_sets.datagen.ModDataGeneration"
+    ]
+  },
+  "mixins": [
+    "toads_armor_sets.mixins.json"
+  ],
+
+  "custom": {
+    "modrinth": {
+      "dependencies": [
+        {
+          "id": "azurelib",
+          "relationship": "required",
+          "version": "1.19.2"
+        },
+        {
+          "id": "ohmymeteors",
+          "relationship": "required",
+          "version": "1.19.2"
+        }
+      ]
+    }
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": "~1.19.2",
+    "azurelib": ">=3.2.10",
+    "java": ">=17",
+    "ohmymeteors": "1.0.0+1.19.2"
+  }
+}

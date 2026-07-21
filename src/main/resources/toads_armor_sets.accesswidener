@@ -1,0 +1,4 @@
+accessWidener	v1	named
+
+# Open up Axolotl Entity setVariant method for mixins
+accessible	method	net/minecraft/entity/passive/AxolotlEntity	setVariant	(Lnet/minecraft/entity/passive/AxolotlEntity$Variant;)V

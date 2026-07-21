@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "toads_armor_sets:stromatolite"
+  },
+  "result": "toads_armor_sets:chiseled_stromatolite"
+}

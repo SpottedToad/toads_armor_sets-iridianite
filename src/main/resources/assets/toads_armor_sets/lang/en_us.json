@@ -1,0 +1,40 @@
+{
+"itemGroup.toads_armor_sets.additions": "Toad's Armor Sets Tab",
+
+  "item.toads_armor_sets.space_axolotl_bucket": "Bucket of Alien Creature",
+
+  "item.toads_armor_sets.iridian_crystal": "Iridian Crystal",
+  "item.toads_armor_sets.iridianite_ingot": "Iridianite Ingot",
+
+  "item.toads_armor_sets.iridianite_helmet": "Iridianite Helmet",
+  "item.toads_armor_sets.iridianite_chestplate": "Iridianite Chestplate",
+  "item.toads_armor_sets.iridianite_leggings": "Iridianite Leggings",
+  "item.toads_armor_sets.iridianite_boots": "Iridianite Boots",
+
+  "block.toads_armor_sets.iridian_crystal_block": "Block of Iridian Crystal",
+
+  "block.toads_armor_sets.stromatolite": "Stromatolite",
+  "block.toads_armor_sets.polished_stromatolite": "Polished Stromatolite",
+  "block.toads_armor_sets.stromatolite_bricks": "Stromatolite Bricks",
+  "block.toads_armor_sets.cracked_stromatolite_bricks": "Cracked Stromatolite Bricks",
+  "block.toads_armor_sets.chiseled_stromatolite": "Chiseled Stromatolite",
+  "block.toads_armor_sets.gilded_chiseled_stromatolite": "Gilded Chiseled Stromatolite",
+
+  "block.toads_armor_sets.scorched_stromatolite": "Scorched Stromatolite",
+  "block.toads_armor_sets.polished_scorched_stromatolite": "Polished Scorched Stromatolite",
+  "block.toads_armor_sets.scorched_stromatolite_bricks": "Scorched Stromatolite Bricks",
+  "block.toads_armor_sets.cracked_scorched_stromatolite_bricks": "Cracked Scorched Stromatolite Bricks",
+  "block.toads_armor_sets.chiseled_scorched_stromatolite": "Chiseled Scorched Stromatolite",
+  "block.toads_armor_sets.gilded_chiseled_scorched_stromatolite": "Gilded Chiseled Scorched Stromatolite",
+
+  "block.toads_armor_sets.stromatolite_geode": "Stromatolite Geode",
+  "block.toads_armor_sets.vulcanized_stromatolite": "Vulcanized Stromatolite",
+  "block.toads_armor_sets.molten_stromatolite": "Molten Stromatolite",
+  "block.toads_armor_sets.chilled_stromatolite": "Chilled Stromatolite",
+  "block.toads_armor_sets.frozen_stromatolite": "Frozen Stromatolite",
+
+  "block.toads_armor_sets.strange_ice": "Strange Ice",
+  "block.toads_armor_sets.frozen_creature_axolotl": "Strange Frozen Creature",
+  "block.toads_armor_sets.frozen_creature_frog": "Strange Frozen Creature"
+
+}

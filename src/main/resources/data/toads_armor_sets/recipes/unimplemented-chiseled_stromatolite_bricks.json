@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "toads_armor_sets:stromatolite_brick_slabs"
+      }
+    },
+  "pattern": [
+    "#",
+    "#"
+    ],
+  "result": {
+    "item": "toads_armor_sets:chiseled_stromatolite_bricks"
+    }
+}

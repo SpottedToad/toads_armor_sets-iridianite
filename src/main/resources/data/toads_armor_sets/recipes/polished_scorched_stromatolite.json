@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "toads_armor_sets:scorched_stromatolite"
+  },
+  "result": "toads_armor_sets:polished_scorched_stromatolite"
+}

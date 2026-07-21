@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/axolotl_bucket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "toads_armor_sets:space_variant": 1.0
+      },
+      "model": "toads_armor_sets:item/space_axolotl_bucket"
+    }
+  ]
+}

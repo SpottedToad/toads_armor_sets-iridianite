@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#/#",
+    " # "
+    ],
+  "key": {
+    "#": {
+      "item": "toads_armor_sets:chiseled_scorched_stromatolite"
+      },
+    "/": {
+      "item": "toads_armor_sets:iridian_crystal"
+      }
+    },
+  "result": {
+    "count": 4,
+    "item": "toads_armor_sets:gilded_chiseled_scorched_stromatolite"
+    }
+}

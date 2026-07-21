@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#/#",
+    " # "
+    ],
+  "key": {
+    "#": {
+      "item": "toads_armor_sets:vulcanized_stromatolite"
+      },
+    "/": {
+      "item": "minecraft:magma_block"
+      }
+    },
+  "result": {
+    "count": 4,
+    "item": "toads_armor_sets:molten_stromatolite"
+    }
+}

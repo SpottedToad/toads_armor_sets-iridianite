@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "toads_armor_sets:block/frozen_creature_frog_top",
+    "side": "toads_armor_sets:block/frozen_creature_frog_side"
+  }
+}
