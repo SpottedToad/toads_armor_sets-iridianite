@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_column",
   "textures": {
-    "end": "toads_armor_sets:block/frozen_creature_axolotl_top",
-    "side": "toads_armor_sets:block/frozen_creature_axolotl_side"
+    "end": "toads_armor_sets:block/frozen_creature",
+    "side": "toads_armor_sets:block/frozen_creature_axolotl"
   }
 }

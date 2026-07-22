@@ -8,5 +8,5 @@ pluginManagement {
         gradlePluginPortal()
     }
 
-    rootProject.name = 'toads_armor_sets'
+    rootProject.name = 'tas-iridianite'
 }
