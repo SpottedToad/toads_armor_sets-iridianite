@@ -56,5 +56,8 @@
     "fabricloader": ">=0.14.19",
     "azurelib": ">=3.2.11",
     "ohmymeteors": ">=1.0.0+1.19.2"
-  }
+  },
+  "after": [
+    "ohmymeteors"
+  ]
 }
